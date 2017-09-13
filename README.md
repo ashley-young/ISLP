@@ -27,9 +27,9 @@ The labs are as follows:
 * 7 - Non-linear Modeling
 * 8 - Decision Trees
 * 9 - Support Vector Machines
-- 10.1 - Principal Component Analysis
-- 10.2 - Clustering
-- 10.3 NCI60 Data Example
+* 10.1 - Principal Component Analysis
+* 10.2 - Clustering
+* 10.3 NCI60 Data Example
 
 ## Copyright
 
